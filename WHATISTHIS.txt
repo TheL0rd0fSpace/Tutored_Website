@@ -1,0 +1,2 @@
+This is a copy of a website, created by a student I was tutoring as part of the class I tutored them in (PHP), 
+as a representative sample of not just what I know, but what I'm able to teach to others.
